@@ -1,0 +1,2 @@
+Implement Baysian Decision Rule by sliding 8*8 block DCT calculation with index followed zigzag pattern.
+Error Rate: 17.26 %
