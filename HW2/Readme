@@ -1,1 +1,7 @@
 
+Implement MAP Rule with Gaussian conditional probabilities assumption by sliding 8*8 block DCT calculation with index followed zigzag pattern.
+* With 64 features (All) Error Rate: 9.35%
+* With 8 best features (Pick by visualization) Error Rate: 5.09%
+
+Comment: 
+Both results perform better classification mask than using bayes decision rule.
