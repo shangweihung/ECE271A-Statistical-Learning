@@ -1,0 +1,7 @@
+Implement EM algorithm  
+
+1.  
+Generate 5 classifiers for foreground and 5 classifiers for background randomly under fixed number of components.  
+Compare these 25 combinations of classifiers and predict each pixel.  
+2.  
+Generate some classifier with distinct number of components and predict each pixel.  
